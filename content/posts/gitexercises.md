@@ -1,10 +1,9 @@
 ---
-title: "Gitexercises"
+title: "Git Exercises"
 date: 2024-05-24T08:00:35+05:30
 draft: false
 ---
 
-# Git Exercises
 
 ## 1. Push a commit you have made
 
