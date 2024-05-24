@@ -17,7 +17,7 @@ theme = 'm10c'
 
 [params]
   author = "Vishnu Tejas"
-  description = "Tech enthusiast with a versatile skill set, driven by a passion for innovation and continuous learning."
+  description = "Just a tech enthusiast"
   menu_item_separator = " • "
   [[params.social]]
     icon = "github"
