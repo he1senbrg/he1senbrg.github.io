@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://he1senbrg.github.io/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://he1senbrg.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://he1senbrg.github.io/archive/</loc>
+    </url>
+    <url>
+        <loc>https://he1senbrg.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://he1senbrg.github.io/blog/choosing-the-right-laptop/</loc>
+        <lastmod>2024-07-24</lastmod>
+    </url>
+    <url>
+        <loc>https://he1senbrg.github.io/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://he1senbrg.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://he1senbrg.github.io/projects/presense/</loc>
+    </url>
+    <url>
+        <loc>https://he1senbrg.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://he1senbrg.github.io/tags/guide/</loc>
+    </url>
+    <url>
+        <loc>https://he1senbrg.github.io/tags/project/</loc>
+    </url>
+</urlset>

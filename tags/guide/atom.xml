@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://he1senbrg.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;he1senbrg.github.io&#x2F;</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It&#x27;s free.</tabi:about_feeds>
+        <tabi:visit_the_site>Visit website</tabi:visit_the_site>
+        <tabi:recent_posts>Recent posts</tabi:recent_posts>
+        <tabi:last_updated_on>Updated on $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>guide</tabi:current_section>
+    </tabi:metadata><title>Vishnu Tejas E - guide</title>
+        <subtitle>Just another blog!</subtitle>
+    <link href="https://he1senbrg.github.io/tags/guide/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://he1senbrg.github.io/tags/guide/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-07-24T00:00:00+00:00</updated>
+    <id>https://he1senbrg.github.io/tags/guide/atom.xml</id><entry xml:lang="en">
+        <title>Choosing the Right Laptop</title>
+        <published>2024-07-24T00:00:00+00:00</published>
+        <updated>2024-07-24T00:00:00+00:00</updated>
+        <author>
+            <name>Vishnu Tejas E</name>
+        </author>
+        <link rel="alternate" href="https://he1senbrg.github.io/blog/choosing-the-right-laptop/" type="text/html"/>
+        <id>https://he1senbrg.github.io/blog/choosing-the-right-laptop/</id>
+        
+            <content type="html">&lt;p&gt;Depending on your goals, you can either choose a slim and light business laptop or, if you plan to do graphics work, machine learning, or gaming, opt for a gaming laptop with a dedicated GPU. Whatever you choose, the details on how to pick the right one are given below.&lt;&#x2F;p&gt;
+&lt;p&gt;Note:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Generally, avoid very cheap laptops as you will regret it sooner or later and end up spending more than necessary. If your budget is tight, consider looking into the used market.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;You can indeed get a student discount on some laptops by using your university provided email ID. Availability varies by vendor, but companies like Samsung and Apple do offer student discounts.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cpu&quot;&gt;CPU&lt;&#x2F;h2&gt;
+&lt;p&gt;You are going to write a lot of code, and the CPU handles the compiling. The more power you can provide, the faster the compilation will be.&lt;&#x2F;p&gt;
+&lt;p&gt;As of this guide’s writing, there are three main CPU vendors:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Intel&lt;&#x2F;li&gt;
+&lt;li&gt;AMD&lt;&#x2F;li&gt;
+&lt;li&gt;Snapdragon&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;intel&quot;&gt;Intel&lt;&#x2F;h4&gt;
+&lt;p&gt;When looking at intel CPU’s there are three tiers {Core i3, Core i5, Core i7} with higher numbers denoting a higher performance tier.&lt;&#x2F;p&gt;
+&lt;p&gt;The latest Intel CPUs use a new naming scheme: {Intel Core x and Intel Core Ultra x}, where “x” represents the CPU tier (3, 5, 7, or 9).&lt;&#x2F;p&gt;
+&lt;p&gt;Note:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stability issues with Intel’s 13th and 14th generation CPUs are primarily related to desktops, so laptop users are generally safe.&lt;&#x2F;li&gt;
+&lt;li&gt;Intel CPUs ending with ‘H’ are more powerful than those ending with ‘P’ and also consume more power.&lt;&#x2F;li&gt;
+&lt;li&gt;For more information on Intel’s naming conventions, &lt;a href=&quot;https:&#x2F;&#x2F;www.intel.com&#x2F;content&#x2F;www&#x2F;us&#x2F;en&#x2F;processors&#x2F;processor-numbers.html&quot;&gt;click here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;If choosing Intel, opt for at least a &lt;code&gt;Core i5 12th&lt;&#x2F;code&gt; generation or higher.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;amd&quot;&gt;AMD&lt;&#x2F;h4&gt;
+&lt;p&gt;When looking at AMD CPUs, there are three main tiers: {Ryzen 3, Ryzen 5, Ryzen 7}, with higher numbers indicating higher performance levels.&lt;&#x2F;p&gt;
+&lt;p&gt;Don’t be misled by the Ryzen 7000 label; AMD often rebrands older chips with newer series numbers.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;storage-asset.msi.com&#x2F;global&#x2F;picture&#x2F;news&#x2F;2023&#x2F;nb&#x2F;nb-20230220-1.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;When choosing an AMD CPU:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first digit from the left should be 7 or higher&lt;&#x2F;li&gt;
+&lt;li&gt;The second digit from the left should be 5 or higher&lt;&#x2F;li&gt;
+&lt;li&gt;The third digit from the left should be 3 or higher&lt;&#x2F;li&gt;
+&lt;li&gt;The fourth digit from the left can be 0 or 5&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;For example, 7530U or higher&lt;&#x2F;p&gt;
+&lt;p&gt;Note:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;For more information on AMD’s naming conventions, &lt;a href=&quot;https:&#x2F;&#x2F;www.msi.com&#x2F;blog&#x2F;understand-how-amd-name-their-mobile-cpu&quot;&gt;click here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;snapdragon&quot;&gt;Snapdragon&lt;&#x2F;h4&gt;
+&lt;p&gt;Snapdragon offers two tiers: {X Plus and X Elite}. These chips are based on ARM architecture (similar to what you find in smartphones), unlike x86 architecture used by Intel and AMD.&lt;&#x2F;p&gt;
+&lt;p&gt;It’s advisable to avoid Snapdragon for now, as the chip is still in its early stages and Linux is not fully supported yet.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ram&quot;&gt;RAM&lt;&#x2F;h2&gt;
+&lt;p&gt;8 GB isn’t sufficient these days; you should go for at least 16 GB or higher.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;storage&quot;&gt;Storage&lt;&#x2F;h2&gt;
+&lt;p&gt;Opt for a laptop with an SSD(Solid State Drive) of 512 GB or more, with 1 TB being the ideal size.&lt;&#x2F;p&gt;
+&lt;p&gt;Note: For the love of all that is good, never buy a laptop with an HDD (Hard Disk Drive).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gpu&quot;&gt;GPU&lt;&#x2F;h2&gt;
+&lt;p&gt;The GPU in your laptop handles graphics, AI&#x2F;ML tasks, and gaming.&lt;&#x2F;p&gt;
+&lt;p&gt;In increasing order of power:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;RTX 2050&lt;&#x2F;li&gt;
+&lt;li&gt;RTX 3050&lt;&#x2F;li&gt;
+&lt;li&gt;RTX 3050 Ti&lt;&#x2F;li&gt;
+&lt;li&gt;RTX 2060&lt;&#x2F;li&gt;
+&lt;li&gt;RTX 4050&lt;&#x2F;li&gt;
+&lt;li&gt;RTX 3060&lt;&#x2F;li&gt;
+&lt;li&gt;RTX 4060&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Note:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid 10 or 16 series GPUs, such as the 1050 or 1650.&lt;&#x2F;li&gt;
+&lt;li&gt;Generally, opt for Nvidia (because of &lt;a href=&quot;https:&#x2F;&#x2F;www.xda-developers.com&#x2F;dlss&quot;&gt;DLSS&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;explainlikeimfive&#x2F;comments&#x2F;183bhj9&#x2F;eli5_what_is_frame_generation_and_how_does_it_work&#x2F;&quot;&gt;Frame gen&lt;&#x2F;a&gt;), but if your budget is under 55k, other options can be considered.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;laptop-recommendations&quot;&gt;Laptop Recommendations&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;under-30k&quot;&gt;Under 30k&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Acer-Smartchoice-Premium-Windows-AL15-41&#x2F;dp&#x2F;B0CWTSF1TK&quot;&gt;Acer Aspire Lite AL15-41&lt;&#x2F;a&gt; - CPU: Ryzen 3 5300U&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Refurbished-Lenovo-ThinkPad-Bluetooth-Graphics&#x2F;dp&#x2F;B0CD7V2RPG&quot;&gt;ThinkPad T480&lt;&#x2F;a&gt; - CPU: i5-8250U&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Note: Most new devices in this price range tend to be underpowered, so it’s best to consider refurbished or used systems.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;30k-50k&quot;&gt;30k - 50k&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Lenovo-ThinkPad-Graphics-Keyboard-21JRS00T00&#x2F;dp&#x2F;B0C7J16NYC&quot;&gt;ThinkPad E14&lt;&#x2F;a&gt; - CPU:  Ryzen 5 7530U&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;MSI-i7-1255U-Windows-Graphics-C12M-459IN&#x2F;dp&#x2F;B09YCX5F52&quot;&gt;MSI Modern 14&lt;&#x2F;a&gt; - CPU: i7-1255U&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;HP-Graphics-15-6-inch-Backlit-fb0147AX&#x2F;dp&#x2F;B0C946F286&quot;&gt;HP Victus&lt;&#x2F;a&gt; - CPU: Ryzen 5 5600H, GPU: Radeon RX 6500M *&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;MSI-i5-12450H-Windows-GeForce-B12UCX-1696IN&quot;&gt;MSI Thin 15&lt;&#x2F;a&gt; - CPU: i5-12450H, GPU: RTX 2050&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;50k-70k&quot;&gt;50k - 70k&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Acer-i5-13420H-Graphics-Display-ANV15-51&#x2F;dp&#x2F;B0CQP1T2VW&quot;&gt;Acer Nitro V&lt;&#x2F;a&gt; - CPU: i5-13420H, GPU: RTX 3050 6GB&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Lenovo-i5-12450HX-300Nits-Graphics-83GS003NIN&#x2F;dp&#x2F;B0D49RN3X6&quot;&gt;Lenovo LOQ&lt;&#x2F;a&gt; - CPU: i5-12450HX, GPU: RTX 3050 6GB&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Lenovo-IdeaPad-39-62cm-Keyboard-82SB00Y8IN&#x2F;dp&#x2F;B0CL5KS6R9&quot;&gt;IdeaPad Gaming 3&lt;&#x2F;a&gt; - CPU: Ryzen 7 6800H, GPU: RTX 3050 4GB *&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;MSI-i7-12650H-Windows-GeForce-B12UCX-1694IN&#x2F;dp&#x2F;B0CV9S7ZV6&quot;&gt;MSI Thin 15&lt;&#x2F;a&gt; - CPU: i7-12650H&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Dell-G15-5530-Gaming-i5-13450HX-Processor&#x2F;dp&#x2F;B0CRKX3JRT&quot;&gt;Dell G15-5530&lt;&#x2F;a&gt; - CPU: i5-13450HX, GPU: RTX 3050 6GB&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Lenovo-IdeaPad-i7-13620H-38-1cm-83EM008GIN&#x2F;dp&#x2F;B0D6NCVQZQ&quot;&gt;IdeaPad Slim 3&lt;&#x2F;a&gt; - CPU: i7-13620H&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;70k-90k&quot;&gt;70k - 90k&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;HP-i5-13420H-15-6-inch-Backlit-fa1319TX&#x2F;dp&#x2F;B0D1YJR2ZY&quot;&gt;HP Victus&lt;&#x2F;a&gt; - CPU: i5-13420H, GPU: RTX 4050 6GB&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Lenovo-i5-13450HX-300Nits-Graphics-83DV007GIN&#x2F;dp&#x2F;B0D49W5KZP&quot;&gt;Lenovo LOQ 2024&lt;&#x2F;a&gt; - CPU: i5-13450HX, GPU: RTX 4050 6GB&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Lenovo-Powered-7840HS-350Nits-82XT004JIN&#x2F;dp&#x2F;B0CR1KCT6B&quot;&gt;Lenovo LOQ&lt;&#x2F;a&gt; - CPU: Ryzen 7 7840HS, GPU: RTX 4050 6GB&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;ASUS-Vivobook-i9-13900H-Fingerprint-X1605VA-MB947WS&#x2F;dp&#x2F;B0CHMZRC89&quot;&gt;ASUS Vivobook 16&lt;&#x2F;a&gt; - CPU: i9-13900H&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;above-90k&quot;&gt;Above 90k&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Lenovo-i7-13650HX-39-6cm-300Nits-83DV00LXIN&#x2F;dp&#x2F;B0D3TGNY9G&quot;&gt;Lenovo LOQ 2024&lt;&#x2F;a&gt; - CPU: i7-13650HX, GPU: RTX 4060 8GB&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Choice-HP-Gaming-Response-xd0020AX&#x2F;dp&#x2F;B0CCVZP835&quot;&gt;HP OMEN&lt;&#x2F;a&gt; - CPU: Ryzen 7 7840HS, GPU: RTX 4060 8G&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;Lenovo-Powered-40-64cm-300Nits-82Y9009JIN&#x2F;dp&#x2F;B0CGLQJP1Y&quot;&gt;Lenovo Legion Slim 5&lt;&#x2F;a&gt; - CPU: Ryzen 7 7840HS, GPU: RTX 4060 8GB&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.in&#x2F;ASUS-Creator-Vivobook-i7-12650H-K3605ZV-MB741WS&#x2F;dp&#x2F;B0C5N2K738&quot;&gt;ASUS Creator Series Vivobook 16X&lt;&#x2F;a&gt; - CPU:  i7-12650H, GPU: RTX 4060 8GB&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;code&gt;* - Varies from the guide due to comparable performance.&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;macbook&quot;&gt;Macbook&lt;&#x2F;h2&gt;
+&lt;p&gt;If you want a MacBook, choose one with 512 GB of storage, and if your budget allows, go for the 16 GB RAM version.&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">A detailed guide on choosing the right laptop for your needs.</summary>
+        </entry>
+</feed>
