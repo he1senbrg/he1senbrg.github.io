@@ -1,9 +1,9 @@
-base_url = "https://YOUR_URL.TLD"
-title = "site title"
-description = "YOUR_SITE_DESCRIPTION"
-author = "YOUR_NAME"
+base_url = "https://he1senbrg.github.io/"
+title = "Vishnu Tejas E"
+description = "Just another blog!"
+author = "Vishnu Tejas E"
 theme = "tabi"
-generate_feeds = true
+generate_feeds = false
 compile_sass = true
 minify_html = true
 build_search_index = true
@@ -262,6 +262,12 @@ encode_plaintext_email = true  # Setting is ignored if email is already encoded.
 #     { name = "youtube", url = "https://youtube.com/@oskerwyld", icon = "youtube" },
 #     { name = "spotify", url = "https://open.spotify.com/artist/5Hv2bYBhMp1lUHFri06xkE", icon = "spotify" },
 # ]
+
+socials = [
+    { name = "github", url = "https://github.com/he1senbrg/", icon = "github" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/vishnutejase/", icon = "linkedin" },
+    { name = "instagram", url = "https://www.instagram.com/vishnutejas.e", icon = "instagram" },
+]
 
 # Fediverse profile.
 # Adds metadata to feature the author's profile in Mastodon link previews.
