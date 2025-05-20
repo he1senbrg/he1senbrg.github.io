@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://he1senbrg.github.io/sitemap.xml
+Sitemap: https://vishnu.studio/sitemap.xml

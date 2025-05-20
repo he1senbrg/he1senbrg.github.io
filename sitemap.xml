@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="https://he1senbrg.github.io/sitemap_style.xsl" type="text/xsl"?>
+<?xml-stylesheet href="https://vishnu.studio/sitemap_style.xsl" type="text/xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://he1senbrg.github.io/</loc>
+        <loc>https://vishnu.studio/</loc>
     </url>
     <url>
-        <loc>https://he1senbrg.github.io/archive/</loc>
+        <loc>https://vishnu.studio/archive/</loc>
     </url>
     <url>
-        <loc>https://he1senbrg.github.io/blog/</loc>
+        <loc>https://vishnu.studio/blog/</loc>
     </url>
     <url>
-        <loc>https://he1senbrg.github.io/blog/choosing-the-right-laptop/</loc>
+        <loc>https://vishnu.studio/blog/choosing-the-right-laptop/</loc>
         <lastmod>2024-07-24</lastmod>
     </url>
     <url>
-        <loc>https://he1senbrg.github.io/blog/cross-compiling-the-linux-kernel-for-arm/</loc>
+        <loc>https://vishnu.studio/blog/cross-compiling-the-linux-kernel-for-arm/</loc>
         <lastmod>2025-02-26</lastmod>
     </url>
     <url>
-        <loc>https://he1senbrg.github.io/blog/page/1/</loc>
+        <loc>https://vishnu.studio/blog/page/1/</loc>
     </url>
     <url>
-        <loc>https://he1senbrg.github.io/projects/</loc>
+        <loc>https://vishnu.studio/projects/</loc>
     </url>
     <url>
-        <loc>https://he1senbrg.github.io/projects/presense/</loc>
+        <loc>https://vishnu.studio/projects/presense/</loc>
     </url>
     <url>
-        <loc>https://he1senbrg.github.io/tags/</loc>
+        <loc>https://vishnu.studio/tags/</loc>
     </url>
     <url>
-        <loc>https://he1senbrg.github.io/tags/guide/</loc>
+        <loc>https://vishnu.studio/tags/guide/</loc>
     </url>
     <url>
-        <loc>https://he1senbrg.github.io/tags/project/</loc>
+        <loc>https://vishnu.studio/tags/project/</loc>
     </url>
 </urlset>

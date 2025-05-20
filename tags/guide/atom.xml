@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet href="https://he1senbrg.github.io/feed_style.xsl" type="text/xsl"?>
+<?xml-stylesheet href="https://vishnu.studio/feed_style.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
-        <tabi:base_url>https:&#x2F;&#x2F;he1senbrg.github.io&#x2F;</tabi:base_url>
+        <tabi:base_url>https:&#x2F;&#x2F;vishnu.studio&#x2F;</tabi:base_url>
         <tabi:separator>
             •
         </tabi:separator>
@@ -15,19 +15,19 @@
         <tabi:current_section>guide</tabi:current_section>
     </tabi:metadata><title>Vishnu Tejas E - guide</title>
         <subtitle>Just another blog!</subtitle>
-    <link href="https://he1senbrg.github.io/tags/guide/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://he1senbrg.github.io/tags/guide/" rel="alternate" type="text/html"/>
+    <link href="https://vishnu.studio/tags/guide/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://vishnu.studio/tags/guide/" rel="alternate" type="text/html"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-02-26T00:00:00+00:00</updated>
-    <id>https://he1senbrg.github.io/tags/guide/atom.xml</id><entry xml:lang="en">
+    <id>https://vishnu.studio/tags/guide/atom.xml</id><entry xml:lang="en">
         <title>Cross-compiling the Linux kernel for ARM</title>
         <published>2025-02-26T00:00:00+00:00</published>
         <updated>2025-02-26T00:00:00+00:00</updated>
         <author>
             <name>Vishnu Tejas E</name>
         </author>
-        <link rel="alternate" href="https://he1senbrg.github.io/blog/cross-compiling-the-linux-kernel-for-arm/" type="text/html"/>
-        <id>https://he1senbrg.github.io/blog/cross-compiling-the-linux-kernel-for-arm/</id>
+        <link rel="alternate" href="https://vishnu.studio/blog/cross-compiling-the-linux-kernel-for-arm/" type="text/html"/>
+        <id>https://vishnu.studio/blog/cross-compiling-the-linux-kernel-for-arm/</id>
         
             <content type="html">&lt;p&gt;Seems fun, right? I didn’t know anything related to this or what I was doing. I started by simply googling, you guessed it, &lt;code&gt;how to cross-compile the Linux kernel for ARM&lt;&#x2F;code&gt;, and that provided more than enough resources to get me started.&lt;&#x2F;p&gt;
 &lt;p&gt;It also felt like a great way to get acquainted with the tools and concepts I might need later when working on embedded systems.&lt;&#x2F;p&gt;
@@ -73,8 +73,8 @@
         <author>
             <name>Vishnu Tejas E</name>
         </author>
-        <link rel="alternate" href="https://he1senbrg.github.io/blog/choosing-the-right-laptop/" type="text/html"/>
-        <id>https://he1senbrg.github.io/blog/choosing-the-right-laptop/</id>
+        <link rel="alternate" href="https://vishnu.studio/blog/choosing-the-right-laptop/" type="text/html"/>
+        <id>https://vishnu.studio/blog/choosing-the-right-laptop/</id>
         
             <content type="html">&lt;p&gt;Depending on your goals, you can either choose a slim and light business laptop or, if you plan to do graphics work, machine learning, or gaming, opt for a gaming laptop with a dedicated GPU. Whatever you choose, the details on how to pick the right one are given below.&lt;&#x2F;p&gt;
 &lt;p&gt;Note:&lt;&#x2F;p&gt;
