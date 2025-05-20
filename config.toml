@@ -9,7 +9,6 @@ minify_html = true
 build_search_index = true
 default_language = "en"
 taxonomies = [{name = "tags", feed = true}]
-favicon = "static/img/profile.png"
 
 
 [search]
@@ -219,6 +218,7 @@ invert_title_order = false
 
 # Full path after the base URL required. So if you were to place it in "static" it would be "/favicon.ico"
 # favicon = ""
+favicon = "static/img/profile.png"
 
 # Add an emoji here to use it as favicon.
 # Compatibility: https://caniuse.com/link-icon-svg
