@@ -9,6 +9,7 @@ minify_html = true
 build_search_index = true
 default_language = "en"
 taxonomies = [{name = "tags", feed = true}]
+favicon = "static/img/profile.png"
 
 
 [search]
