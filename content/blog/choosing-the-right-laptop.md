@@ -1,6 +1,6 @@
 +++
 title = "Choosing the Right Laptop"
-date = "2024-07-24"
+date = "2025-04-24"
 description = "A detailed guide on choosing the right laptop for your needs."
 
 [taxonomies]
