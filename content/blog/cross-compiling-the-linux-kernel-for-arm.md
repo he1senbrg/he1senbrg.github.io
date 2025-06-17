@@ -1,6 +1,6 @@
 +++
 title = "Cross-compiling the Linux kernel for ARM"
-date = "2025-02-26"
+date = "2025-05-18"
 description = "A simple guide to cross-compiling the Linux kernel for ARM, from setup to testing with QEMU."
 
 [taxonomies]
