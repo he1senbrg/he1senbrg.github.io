@@ -17,9 +17,7 @@
         <subtitle>Just another blog!</subtitle>
     <link href="https://vishnu.studio/tags/guide/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://vishnu.studio/tags/guide/" rel="alternate" type="text/html"/>
-    <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2025-05-18T00:00:00+00:00</updated>
-    <id>https://vishnu.studio/tags/guide/atom.xml</id><entry xml:lang="en">
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-05-18T00:00:00+00:00</updated><id>https://vishnu.studio/tags/guide/atom.xml</id><entry xml:lang="en">
         <title>Cross-compiling the Linux kernel for ARM</title>
         <published>2025-05-18T00:00:00+00:00</published>
         <updated>2025-05-18T00:00:00+00:00</updated>
