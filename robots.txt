@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://vishnu.studio/sitemap.xml
+Sitemap: https://vishnute.me/sitemap.xml

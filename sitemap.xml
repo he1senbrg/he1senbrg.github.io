@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="https://vishnu.studio/sitemap_style.xsl" type="text/xsl"?>
+<?xml-stylesheet href="https://vishnute.me/sitemap_style.xsl" type="text/xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://vishnu.studio/</loc>
+        <loc>https://vishnute.me/</loc>
     </url>
     <url>
-        <loc>https://vishnu.studio/archive/</loc>
+        <loc>https://vishnute.me/archive/</loc>
     </url>
     <url>
-        <loc>https://vishnu.studio/blog/</loc>
+        <loc>https://vishnute.me/blog/</loc>
     </url>
     <url>
-        <loc>https://vishnu.studio/blog/choosing-the-right-laptop/</loc>
+        <loc>https://vishnute.me/blog/choosing-the-right-laptop/</loc>
         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
-        <loc>https://vishnu.studio/blog/cross-compiling-the-linux-kernel-for-arm/</loc>
+        <loc>https://vishnute.me/blog/cross-compiling-the-linux-kernel-for-arm/</loc>
         <lastmod>2025-05-18</lastmod>
     </url>
     <url>
-        <loc>https://vishnu.studio/blog/page/1/</loc>
+        <loc>https://vishnute.me/blog/page/1/</loc>
     </url>
     <url>
-        <loc>https://vishnu.studio/projects/</loc>
+        <loc>https://vishnute.me/projects/</loc>
     </url>
     <url>
-        <loc>https://vishnu.studio/projects/presense/</loc>
+        <loc>https://vishnute.me/projects/presense/</loc>
     </url>
     <url>
-        <loc>https://vishnu.studio/tags/</loc>
+        <loc>https://vishnute.me/tags/</loc>
     </url>
     <url>
-        <loc>https://vishnu.studio/tags/guide/</loc>
+        <loc>https://vishnute.me/tags/guide/</loc>
     </url>
     <url>
-        <loc>https://vishnu.studio/tags/project/</loc>
+        <loc>https://vishnute.me/tags/project/</loc>
     </url>
 </urlset>
